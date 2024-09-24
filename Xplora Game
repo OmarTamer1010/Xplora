@@ -1,0 +1,28 @@
+# Exoplanet Exploration App
+
+## Project Description:
+An open-source educational game designed to explore exoplanets located outside our solar system. The app offers an interactive and gamified experience in a 3D environment, allowing users to learn about various exoplanets through engaging gameplay, quizzes, and fascinating information about planets discovered by NASA's telescopes, such as Kepler and James Webb.
+
+## Objectives:
+- Provide an interactive and gamified educational experience about exoplanets.
+- Display detailed information on the characteristics of each exoplanet.
+- Enhance users' understanding of how exoplanets are discovered through fun activities and challenges.
+- Make science accessible to everyone using open-source technologies.
+
+## Expected Features:
+- A simple and user-friendly interface.
+- Engaging gameplay with quizzes and challenges related to exoplanets.
+- Comprehensive and up-to-date information on exoplanets.
+- The ability to expand and add new exoplanets and gameplay elements over time.
+
+## Call for Contributors:
+We are currently looking for passionate developers, designers, and educators to collaborate on this project. Whether you're experienced in Unity, C#, or simply have a strong interest in space and science, your help would be greatly appreciated. This project is open to contributions of all kinds, and we welcome anyone interested in bringing this exoplanet exploration game to life!
+
+### What We Need:
+- **Developers:** Experience in Unity and C# is preferred, but not mandatory. We welcome contributions from anyone with a passion for coding and game development. Help with coding, debugging, and implementing features will be highly valuable.
+- **Designers:** We need creative minds to design the user interface (UI) and user experience (UX) of the application, ensuring it's engaging and easy to use.
+- **Educators:** Input from educators who can provide insights on how to effectively convey complex scientific concepts to a younger audience.
+- **Content Creators:** Help in researching and creating accurate and engaging content about exoplanets, including text, images, and possibly videos.
+- **Testers:** Users who can provide feedback on the app's functionality, usability, and overall experience.
+
+If you would like to contribute, feel free to fork the repository or reach out to us directly. Your involvement could make a significant impact in making science accessible and engaging for everyone!
